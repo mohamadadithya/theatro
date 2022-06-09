@@ -1,9 +1,3 @@
-# Micawber: Sveltekit Boilerplate
+# Theatro
 
-Micawber is a Sveltekit boilerplate includes Tailwind CSS, PostCSS, Autoprefixer and Svelte Meta Tags
-
-## Setup
-```shell
-npm install
-npm run dev
-```
+Theatro is a website to show information about movies.
